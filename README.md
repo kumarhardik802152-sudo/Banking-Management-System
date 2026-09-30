@@ -61,7 +61,12 @@ This is an educational project and is not suitable for real banking. Account dat
 
 ## Screenshots
 
-Screenshots are optional. Add terminal screenshots here if required for your submission.
+<img width="661" height="397" alt="Screenshot 2026-09-30 194241" src="https://github.com/user-attachments/assets/5b96f5fa-a3d8-4452-9962-8d98bf413ed1" />
+<img width="396" height="324" alt="Screenshot 2026-09-30 194218" src="https://github.com/user-attachments/assets/b080c297-49af-4c13-9fd3-d3fe61679851" />
+<img width="397" height="447" alt="Screenshot 2026-09-30 194143" src="https://github.com/user-attachments/assets/ec6636e6-2867-4b85-9531-af793acac086" />
+<img width="392" height="211" alt="Screenshot 2026-09-30 194107" src="https://github.com/user-attachments/assets/a64de189-ac89-495b-99e9-6ab57223b5c1" />
+<img width="370" height="292" alt="Screenshot 2026-09-30 194041" src="https://github.com/user-attachments/assets/a4694d0c-3e0d-45c5-af58-817d07d85bba" />
+
 
 ## License
 
